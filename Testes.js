@@ -6,7 +6,6 @@ class Testes {
     this.cont_passed = 0;
     this.cont_erro = 0;
 
-
   }
 
   teste_in(in_) {
@@ -71,6 +70,7 @@ class Testes {
 
 
   }
+
 
   passed(coment) {
 
